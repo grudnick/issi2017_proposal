@@ -1,0 +1,148 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: prop.aux
+The style file: /Users/grudnick/LaTeX/Bibtex/apj1lim.bst
+White space in argument---line 19 of file prop.aux
+ : \bibdata{references,rfinn,
+ :                            references_2}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+You're missing a field part---line 3016 of file references.bib
+ :    volume = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 3913 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 6082 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8535 of file references.bib
+ : 
+ : @ARTICLE{Murphy96,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9053 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 9438 of file references.bib
+ : 
+ : %   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...642..188P&db_key=AST},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9589 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9601 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9784 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 10212 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 12458 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12958 of file references.bib
+ :    
+ :    adsurl = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Database file #2: rfinn.bib
+Repeated entry---line 2943 of file rfinn.bib
+ : @article{quilis00
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2964 of file rfinn.bib
+ : @article{chung07
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3403 of file rfinn.bib
+ : @article{crowl05
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3422 of file rfinn.bib
+ : @article{dale01
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3459 of file rfinn.bib
+ : @article{koopmann98
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3498 of file rfinn.bib
+ : @article{larson80
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3516 of file rfinn.bib
+ : @article{postman05
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3535 of file rfinn.bib
+ : @article{gomez03
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3612 of file rfinn.bib
+ : @article{lewis02
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3631 of file rfinn.bib
+ : @article{poggianti99
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4609 of file rfinn.bib
+ : @article{koopmann04
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Rerat17
+You've used 22 entries,
+            2964 wiz_defined-function locations,
+            798 strings with 10343 characters,
+and the built_in function-call counts, 12791 in all, are:
+= -- 1061
+> -- 1055
+< -- 4
++ -- 409
+- -- 387
+* -- 1244
+:= -- 2415
+add.period$ -- 22
+call.type$ -- 22
+change.case$ -- 281
+chr.to.int$ -- 22
+cite$ -- 23
+duplicate$ -- 392
+empty$ -- 589
+format.name$ -- 457
+if$ -- 2384
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 22
+newline$ -- 70
+num.names$ -- 88
+pop$ -- 281
+preamble$ -- 1
+purify$ -- 281
+quote$ -- 0
+skip$ -- 338
+stack$ -- 0
+substring$ -- 459
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 1
+while$ -- 64
+width$ -- 0
+write$ -- 219
+(There were 24 error messages)
