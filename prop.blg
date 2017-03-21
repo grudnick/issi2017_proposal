@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: prop.aux
 The style file: /Users/grudnick/LaTeX/Bibtex/apj1lim.bst
-White space in argument---line 19 of file prop.aux
+White space in argument---line 40 of file prop.aux
  : \bibdata{references,rfinn,
  :                            references_2}
 I'm skipping whatever remains of this command
@@ -14,6 +14,10 @@ I'm skipping whatever remains of this entry
 You're missing a field part---line 3913 of file references.bib
  :     month = 
  :             ,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 4116 of file references.bib
+ : @Comment    
+ :             author = {{Finn}, R.~A. and {Desai}, V. and {Rudnick}, G. and {Moustakas}, J. and
 I'm skipping whatever remains of this entry
 You're missing a field part---line 6082 of file references.bib
  :     month = 
@@ -59,6 +63,10 @@ I was expecting a `,' or a `}'---line 12958 of file references.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Database file #2: rfinn.bib
+Repeated entry---line 63 of file rfinn.bib
+ : @article{papovich12
+ :                    ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 2943 of file rfinn.bib
  : @article{quilis00
  :                  ,
@@ -99,50 +107,58 @@ Repeated entry---line 3631 of file rfinn.bib
  : @article{poggianti99
  :                     ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 4059 of file rfinn.bib
+ : @article{saintonge08
+ :                     ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 4609 of file rfinn.bib
  : @article{koopmann04
  :                    ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 4881 of file rfinn.bib
+ : @article{finn10
+ :                ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in Rerat17
-You've used 22 entries,
+You've used 29 entries,
             2964 wiz_defined-function locations,
-            798 strings with 10343 characters,
-and the built_in function-call counts, 12791 in all, are:
-= -- 1061
-> -- 1055
+            843 strings with 12879 characters,
+and the built_in function-call counts, 17545 in all, are:
+= -- 1445
+> -- 1498
 < -- 4
-+ -- 409
-- -- 387
-* -- 1244
-:= -- 2415
-add.period$ -- 22
-call.type$ -- 22
-change.case$ -- 281
-chr.to.int$ -- 22
-cite$ -- 23
-duplicate$ -- 392
-empty$ -- 589
-format.name$ -- 457
-if$ -- 2384
++ -- 582
+- -- 553
+* -- 1731
+:= -- 3313
+add.period$ -- 29
+call.type$ -- 29
+change.case$ -- 392
+chr.to.int$ -- 29
+cite$ -- 30
+duplicate$ -- 518
+empty$ -- 779
+format.name$ -- 644
+if$ -- 3257
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 22
-newline$ -- 70
-num.names$ -- 88
-pop$ -- 281
+missing$ -- 29
+newline$ -- 91
+num.names$ -- 116
+pop$ -- 391
 preamble$ -- 1
-purify$ -- 281
+purify$ -- 392
 quote$ -- 0
-skip$ -- 338
+skip$ -- 445
 stack$ -- 0
-substring$ -- 459
+substring$ -- 609
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 198
+type$ -- 261
 warning$ -- 1
-while$ -- 64
+while$ -- 85
 width$ -- 0
-write$ -- 219
-(There were 24 error messages)
+write$ -- 289
+(There were 28 error messages)
