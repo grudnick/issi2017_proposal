@@ -1,0 +1,44 @@
+NAME, First Name:  VAN KAMPEN, Eelco
+
+Affiliation:  European Southern Observatory, HQ at Garching b. München, Germany
+
+Role in the project:  Properties of cluster galaxies at all redshifts, using cluster samples derived from Spitzer (SWIRE survey and its derivatives) and Hubble observations (Frontier Fields, COSMOS), but also numerical models of galaxy clusters and their galaxy population.
+
+Current position: Staff Astronomer at ESO
+
+Former Position(s): 
+European Community Postdoctoral Research Fellow at the Royal Observatory Edinburgh
+	August 1994 - September 1996
+
+Postdoctoral Research Fellow at the Theoretical Astrophysics Center, Copenhagen
+	October 1996 - September 1998 
+
+Postdoctoral Research Fellow at the Institute for Astronomy, Edinburgh
+	October 1998 - March 2003
+
+Lecturer at the Institute for Astro- and Particle Physics, Innsbruck
+	March 2003 - October 2008
+
+Education:
+MSc and PhD at the University of Leiden, the Netherlands
+
+
+Selected Publications:
+Dunlop et al. 2017, A deep ALMA image of the Hubble Ultra Deep Field, MNRAS, 466, 861
+
+Popping et al. 2017, ALMA reveals starburst-like interstellar medium conditions in a compact star-forming galaxy at z ~ 2 using [CI] and CO, A&A, in press
+
+Rujopakarn et al. 2016, VLA and ALMA Imaging of Intense, Galaxy-Wide Star Formation in z~2 Galaxies, ApJ, 833, 12
+
+Saulder et al. 2016, The matter distribution in the local universe as derived from galaxy groups in SDSS DR12 and 2MRS,
+A&A, 596, 14
+
+Popping et al. 2016, Sub-mm emission line deep fields: CO and [C II] luminosity functions out to z = 6, MNRAS, 461, 93
+
+Simpson et al. 2015, The SCUBA-2 Cosmology Legacy Survey: ALMA Resolves the Rest-frame Far-infrared Emission of Sub-millimeter Galaxies, ApJ, 799, 81
+
+Alpaslan et al. 2014, Galaxy And Mass Assembly (GAMA): the large-scale structure of galaxies and comparison to mock universes, MNRAS, 438, 177
+
+Owers et al, 2013, Galaxy and Mass Assembly (GAMA): Witnessing the Assembly of the Cluster ABELL 1882, ApJ, 772, 104
+
+van Kampen et al. 2012, Herschel-ATLAS/GAMA: spatial clustering of sub-mm galaxies at low redshifts, MNRAS, 426, 3455
