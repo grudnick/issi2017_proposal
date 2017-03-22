@@ -1,0 +1,164 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: prop.aux
+The style file: /Users/grudnick/LaTeX/Bibtex/apj1lim.bst
+White space in argument---line 40 of file prop.aux
+ : \bibdata{references,rfinn,
+ :                            references_2}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+You're missing a field part---line 3016 of file references.bib
+ :    volume = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 3913 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 4116 of file references.bib
+ : @Comment    
+ :             author = {{Finn}, R.~A. and {Desai}, V. and {Rudnick}, G. and {Moustakas}, J. and
+I'm skipping whatever remains of this entry
+You're missing a field part---line 6082 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 8535 of file references.bib
+ : 
+ : @ARTICLE{Murphy96,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9053 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 9438 of file references.bib
+ : 
+ : %   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...642..188P&db_key=AST},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9589 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9601 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 9784 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 10212 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 12458 of file references.bib
+ :     month = 
+ :             ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12958 of file references.bib
+ :    
+ :    adsurl = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Database file #2: rfinn.bib
+Repeated entry---line 63 of file rfinn.bib
+ : @article{papovich12
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2943 of file rfinn.bib
+ : @article{quilis00
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2964 of file rfinn.bib
+ : @article{chung07
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3403 of file rfinn.bib
+ : @article{crowl05
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3422 of file rfinn.bib
+ : @article{dale01
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3459 of file rfinn.bib
+ : @article{koopmann98
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3498 of file rfinn.bib
+ : @article{larson80
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3516 of file rfinn.bib
+ : @article{postman05
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3535 of file rfinn.bib
+ : @article{gomez03
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3612 of file rfinn.bib
+ : @article{lewis02
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3631 of file rfinn.bib
+ : @article{poggianti99
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4059 of file rfinn.bib
+ : @article{saintonge08
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4609 of file rfinn.bib
+ : @article{koopmann04
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4881 of file rfinn.bib
+ : @article{finn10
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Rerat17
+You've used 29 entries,
+            2964 wiz_defined-function locations,
+            843 strings with 12879 characters,
+and the built_in function-call counts, 17545 in all, are:
+= -- 1445
+> -- 1498
+< -- 4
++ -- 582
+- -- 553
+* -- 1731
+:= -- 3313
+add.period$ -- 29
+call.type$ -- 29
+change.case$ -- 392
+chr.to.int$ -- 29
+cite$ -- 30
+duplicate$ -- 518
+empty$ -- 779
+format.name$ -- 644
+if$ -- 3257
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 29
+newline$ -- 91
+num.names$ -- 116
+pop$ -- 391
+preamble$ -- 1
+purify$ -- 392
+quote$ -- 0
+skip$ -- 445
+stack$ -- 0
+substring$ -- 609
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 261
+warning$ -- 1
+while$ -- 85
+width$ -- 0
+write$ -- 289
+(There were 28 error messages)

@@ -1,0 +1,133 @@
+\begin{thebibliography}{29}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Alberts} {et~al.}(2014){Alberts}, {Pope}, {Brodwin}, {Atlee}, {Lin},
+  {Dey}, {Eisenhardt}, {Gettings}, {Gonzalez}, {Jannuzi}, {Mancone},
+  {Moustakas}, {Snyder}, {Stanford}, {Stern}, {Weiner}, \&
+  {Zeimann}}]{Alberts14}
+{Alberts}, S. {et~al.} 2014, \mnras, 437, 437
+
+\bibitem[{{Bah{\'e}} {et~al.}(2013){Bah{\'e}}, {McCarthy}, {Balogh}, \&
+  {Font}}]{Bahe13}
+{Bah{\'e}}, Y.~M. {et~al.} 2013, \mnras, 430, 3017
+
+\bibitem[{{Bigiel} {et~al.}(2008){Bigiel}, {Leroy}, {Walter}, {Brinks}, {de
+  Blok}, {Madore}, \& {Thornley}}]{Bigiel08}
+{Bigiel}, F. {et~al.} 2008, \aj, 136, 2846
+
+\bibitem[{{Chung} {et~al.}(2007){Chung}, {van Gorkom}, {Kenney}, \&
+  {Vollmer}}]{Chung07}
+{Chung}, A. {et~al.} 2007, \apjl, 659, L115
+
+\bibitem[{{Crowl} {et~al.}(2005){Crowl}, {Kenney}, {van Gorkom}, \&
+  {Vollmer}}]{Crowl05}
+{Crowl}, H.~H. {et~al.} 2005, \aj, 130, 65
+
+\bibitem[{{Dale} {et~al.}(2001){Dale}, {Giovanelli}, {Haynes}, {Hardy}, \&
+  {Campusano}}]{Dale01}
+{Dale}, D.~A. {et~al.} 2001, \aj, 121, 1886
+
+\bibitem[{{De Lucia} {et~al.}(2012){De Lucia}, {Weinmann}, {Poggianti},
+  {Arag{\'o}n-Salamanca}, \& {Zaritsky}}]{DeLucia12a}
+{De Lucia}, G. {et~al.} 2012, \mnras, 423, 1277
+
+\bibitem[{{Finn} {et~al.}(2010){Finn}, {Desai}, {Rudnick}, {Poggianti}, {Bell},
+  {Hinz}, {Jablonka}, {Milvang-Jensen}, {Moustakas}, {Rines}, \&
+  {Zaritsky}}]{Finn10}
+{Finn}, R.~A. {et~al.} 2010, \apj, 720, 87
+
+\bibitem[{{G{\' o}mez} {et~al.}(2003){G{\' o}mez}, {Nichol}, {Miller},
+  {Balogh}, {Goto}, {Zabludoff}, {Romer}, {Bernardi}, {Sheth}, {Hopkins},
+  {Castander}, {Connolly}, {Schneider}, {Brinkmann}, {Lamb}, {SubbaRao}, \&
+  {York}}]{Gomez03}
+{G{\' o}mez}, P.~L. {et~al.} 2003, \apj, 584, 210
+
+\bibitem[{{Jablonka} {et~al.}(2013){Jablonka}, {Combes}, {Rines}, {Finn}, \&
+  {Welch}}]{Jablonka13}
+{Jablonka}, P. {et~al.} 2013, \aap, 557, A103
+
+\bibitem[{{Kennicutt}(1998)}]{Kennicutt98b}
+{Kennicutt}, Jr., R.~C. 1998, \apj, 498, 541
+
+\bibitem[{{Kim} {et~al.}(2016){Kim}, {Rey}, {Bureau}, {Yoon}, {Chung},
+  {Jerjen}, {Lisker}, {Jeong}, {Sung}, {Lee}, {Lee}, \& {Chung}}]{Kim16}
+{Kim}, S. {et~al.} 2016, ArXiv e-prints
+
+\bibitem[{{Koopmann} \& {Kenney}(1998)}]{Koopmann98}
+{Koopmann}, R.~A. {et~al.} 1998, \apjl, 497, L75
+
+\bibitem[{{Koopmann} \& {Kenney}(2004)}]{Koopmann04}
+---. 2004, \apj, 613, 866
+
+\bibitem[{{Laigle} {et~al.}(2017){Laigle}, {Pichon}, {Arnouts}, {McCracken},
+  {Dubois}, {Devriendt}, {Slyz}, {Le Borgne}, {Benoit-Levy}, {Hwang}, {Ilbert},
+  {Kraljic}, {Malavasi}, {Park}, \& {Vibert}}]{Laigle17}
+{Laigle}, C. {et~al.} 2017, ArXiv e-prints
+
+\bibitem[{{Larson} {et~al.}(1980){Larson}, {Tinsley}, \& {Caldwell}}]{Larson80}
+{Larson}, R.~B. {et~al.} 1980, ApJ, 237, 692
+
+\bibitem[{{Leroy} {et~al.}(2008){Leroy}, {Walter}, {Brinks}, {Bigiel}, {de
+  Blok}, {Madore}, \& {Thornley}}]{Leroy08}
+{Leroy}, A.~K. {et~al.} 2008, \aj, 136, 2782
+
+\bibitem[{{Lewis} {et~al.}(2002){Lewis}, {Balogh}, {De Propris}, {Couch},
+  {Bower}, {Offer}, {Bland-Hawthorn}, {Baldry}, {Baugh}, {Bridges}, {Cannon},
+  {Cole}, {Colless}, {Collins}, {Cross}, {Dalton}, {Driver}, {Efstathiou},
+  {Ellis}, {Frenk}, {Glazebrook}, {Hawkins}, {Jackson}, {Lahav}, {Lumsden},
+  {Maddox}, {Madgwick}, {Norberg}, {Peacock}, {Percival}, {Peterson},
+  {Sutherland}, \& {Taylor}}]{Lewis02}
+{Lewis}, I. {et~al.} 2002, \mnras, 334, 673
+
+\bibitem[{{McGee} {et~al.}(2011){McGee}, {Balogh}, {Wilman}, {Bower},
+  {Mulchaey}, {Parker}, \& {Oemler}}]{McGee11}
+{McGee}, S.~L. {et~al.} 2011, \mnras, 413, 996
+
+\bibitem[{{Papovich} {et~al.}(2012){Papovich}, {Bassett}, {Lotz}, {van der
+  Wel}, {Tran}, {Finkelstein}, {Bell}, {Conselice}, {Dekel}, {Dunlop}, {Guo},
+  {Faber}, {Farrah}, {Ferguson}, {Finkelstein}, {H{\"a}ussler}, {Kocevski},
+  {Koekemoer}, {Koo}, {McGrath}, {McLure}, {McIntosh}, {Momcheva}, {Newman},
+  {Rudnick}, {Weiner}, {Willmer}, \& {Wuyts}}]{Papovich12}
+{Papovich}, C. {et~al.} 2012, \apj, 750, 93
+
+\bibitem[{{Patel} {et~al.}(2009){Patel}, {Kelson}, {Holden}, {Illingworth},
+  {Franx}, {van der Wel}, \& {Ford}}]{Patel09}
+{Patel}, S.~G. {et~al.} 2009, \apj, 694, 1349
+
+\bibitem[{{Poggianti} {et~al.}(1999){Poggianti}, {Smail}, {Dressler}, {Couch},
+  {Barger}, {Butcher}, {Ellis}, \& {Oemler}}]{Poggianti99}
+{Poggianti}, B.~M. {et~al.} 1999, ApJ, 518, 576
+
+\bibitem[{{Postman} {et~al.}(2005){Postman}, {Franx}, {Cross}, {Holden},
+  {Ford}, {Illingworth}, {Goto}, {Demarco}, {Rosati}, {Blakeslee}, {Tran},
+  {Ben{\'{\i}}tez}, {Clampin}, {Hartig}, {Homeier}, {Ardila}, {Bartko},
+  {Bouwens}, {Bradley}, {Broadhurst}, {Brown}, {Burrows}, {Cheng}, {Feldman},
+  {Golimowski}, {Gronwall}, {Infante}, {Kimble}, {Krist}, {Lesser}, {Martel},
+  {Mei}, {Menanteau}, {Meurer}, {Miley}, {Motta}, {Sirianni}, {Sparks}, {Tran},
+  {Tsvetanov}, {White}, \& {Zheng}}]{Postman05}
+{Postman}, M. {et~al.} 2005, \apj, 623, 721
+
+\bibitem[{{Quilis} {et~al.}(2000){Quilis}, {Moore}, \& {Bower}}]{Quilis00}
+{Quilis}, V. {et~al.} 2000, Science, 288, 1617
+
+\bibitem[{{Ramachandra} \& {Shandarin}(2015)}]{Ramachandra15}
+{Ramachandra}, N.~S. {et~al.} 2015, \mnras, 452, 1643
+
+\bibitem[{{Rerat} {et~al.}(in prep){Rerat}, {Jablonka}, {Rudnick}, R., V., \&
+  D.}]{Rerat17}
+{Rerat}, F. {et~al.} in prep
+
+\bibitem[{{Saintonge} {et~al.}(2008){Saintonge}, {Tran}, \&
+  {Holden}}]{Saintonge08}
+{Saintonge}, A. {et~al.} 2008, \apjl, 685, L113
+
+\bibitem[{{Tran} {et~al.}(2010){Tran}, {Papovich}, {Saintonge}, {Brodwin},
+  {Dunlop}, {Farrah}, {Finkelstein}, {Finkelstein}, {Lotz}, {McLure},
+  {Momcheva}, \& {Willmer}}]{Tran10}
+{Tran}, K.-V.~H. {et~al.} 2010, \apjl, 719, L126
+
+\bibitem[{{Weinmann} {et~al.}(2010){Weinmann}, {Kauffmann}, {von der Linden},
+  \& {De Lucia}}]{Weinmann10}
+{Weinmann}, S.~M. {et~al.} 2010, \mnras, 406, 2249
+
+\end{thebibliography}
