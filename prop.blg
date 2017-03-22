@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: prop.aux
 The style file: /Users/grudnick/LaTeX/Bibtex/apj1lim.bst
-White space in argument---line 40 of file prop.aux
+White space in argument---line 37 of file prop.aux
  : \bibdata{references,rfinn,
  :                            references_2}
 I'm skipping whatever remains of this command
@@ -122,43 +122,43 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in Rerat17
 You've used 29 entries,
             2964 wiz_defined-function locations,
-            843 strings with 12879 characters,
-and the built_in function-call counts, 17545 in all, are:
-= -- 1445
-> -- 1498
+            840 strings with 12747 characters,
+and the built_in function-call counts, 17422 in all, are:
+= -- 1435
+> -- 1488
 < -- 4
-+ -- 582
-- -- 553
-* -- 1731
-:= -- 3313
++ -- 578
+- -- 549
+* -- 1716
+:= -- 3295
 add.period$ -- 29
 call.type$ -- 29
-change.case$ -- 392
+change.case$ -- 390
 chr.to.int$ -- 29
 cite$ -- 30
-duplicate$ -- 518
-empty$ -- 779
-format.name$ -- 644
-if$ -- 3257
+duplicate$ -- 517
+empty$ -- 773
+format.name$ -- 640
+if$ -- 3230
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 29
 newline$ -- 91
 num.names$ -- 116
-pop$ -- 391
+pop$ -- 390
 preamble$ -- 1
-purify$ -- 392
+purify$ -- 390
 quote$ -- 0
-skip$ -- 445
+skip$ -- 441
 stack$ -- 0
-substring$ -- 609
+substring$ -- 596
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 261
 warning$ -- 1
-while$ -- 85
+while$ -- 84
 width$ -- 0
-write$ -- 289
+write$ -- 288
 (There were 28 error messages)

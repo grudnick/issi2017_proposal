@@ -90,10 +90,6 @@
   {Rudnick}, {Weiner}, {Willmer}, \& {Wuyts}}]{Papovich12}
 {Papovich}, C. {et~al.} 2012, \apj, 750, 93
 
-\bibitem[{{Patel} {et~al.}(2009){Patel}, {Kelson}, {Holden}, {Illingworth},
-  {Franx}, {van der Wel}, \& {Ford}}]{Patel09}
-{Patel}, S.~G. {et~al.} 2009, \apj, 694, 1349
-
 \bibitem[{{Poggianti} {et~al.}(1999){Poggianti}, {Smail}, {Dressler}, {Couch},
   {Barger}, {Butcher}, {Ellis}, \& {Oemler}}]{Poggianti99}
 {Poggianti}, B.~M. {et~al.} 1999, ApJ, 518, 576
@@ -129,5 +125,9 @@
 \bibitem[{{Weinmann} {et~al.}(2010){Weinmann}, {Kauffmann}, {von der Linden},
   \& {De Lucia}}]{Weinmann10}
 {Weinmann}, S.~M. {et~al.} 2010, \mnras, 406, 2249
+
+\bibitem[{{Xie} {et~al.}(2016){Xie}, {De Lucia}, {Hirschmann}, {Fontanot}, \&
+  {Zoldan}}]{Xie16}
+{Xie}, L. {et~al.} 2016, ArXiv e-prints
 
 \end{thebibliography}
