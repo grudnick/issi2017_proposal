@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 MAR 2017 10:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 MAR 2017 12:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,45 +386,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--222
 []$[]$$[]$
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 222.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 222.
 [2] [3 <./filaments-for-issi-prop.pdf> <./seediscs_filament_with_alma.png>]
 [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 454.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 454.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 454.
+(Font)              <9> on input line 460.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 460.
 
  (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [5]
-[6] (./prop.bbl
+(./prop.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 656.
- [7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 662.
+ [6
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 656.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 662.
  (./prop.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 656.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 656.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 662.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 662.
 Package rerunfilecheck Info: File `prop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 656.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 662.
  ) 
 Here is how much of TeX's memory you used:
- 6377 strings out of 493315
- 91929 string characters out of 6137904
- 191721 words of memory out of 5000000
- 9722 multiletter control sequences out of 15000+600000
- 22252 words of font info for 46 fonts, out of 8000000 for 9000
+ 6381 strings out of 493315
+ 91979 string characters out of 6137904
+ 191903 words of memory out of 5000000
+ 9725 multiletter control sequences out of 15000+600000
+ 25521 words of font info for 50 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,8n,29p,1097b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,29p,1536b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -435,10 +433,10 @@ e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on prop.pdf (7 pages, 701373 bytes).
+Output written on prop.pdf (6 pages, 700689 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
