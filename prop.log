@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  22 MAR 2017 12:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 MAR 2017 09:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,22 +242,42 @@ Package: wrapfig 2003/01/31  v 3.6
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen121
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen122
+\subfiglabelskip=\skip51
+\c@subfigure=\count109
+\c@lofdepth=\count110
+\c@subtable=\count111
+\c@lotdepth=\count112
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+)
 (./simplemargins.sty
 Simplemargins margin control commands <15 Mar 93>.
-\smpagewidth=\skip48
-\smpageheight=\skip49
+\smpagewidth=\skip54
+\smpageheight=\skip55
 ) (./macros_rudnick.sty)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box53
-\beforetitleunit=\skip50
-\aftertitleunit=\skip51
-\ttl@plus=\dimen121
-\ttl@minus=\dimen122
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen123
+\ttl@minus=\dimen124
 \ttl@toksa=\toks16
-\titlewidth=\dimen123
-\titlewidthlast=\dimen124
-\titlewidthfirst=\dimen125
+\titlewidth=\dimen125
+\titlewidthlast=\dimen126
+\titlewidthfirst=\dimen127
 )
 (./prop.aux)
 \openout1 = `prop.aux'.
@@ -282,16 +302,16 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count109
-\scratchdimen=\dimen126
+\scratchcounter=\count113
+\scratchdimen=\dimen128
 \scratchbox=\box54
-\nofMPsegments=\count110
-\nofMParguments=\count111
+\nofMPsegments=\count114
+\nofMParguments=\count115
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count112
-\MPscratchDim=\dimen127
-\MPnumerator=\count113
-\makeMPintoPDFobject=\count114
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen129
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks18
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -317,7 +337,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count115
+\c@section@level=\count119
 )
 LaTeX Info: Redefining \ref on input line 97.
 LaTeX Info: Redefining \pageref on input line 97.
@@ -331,27 +351,39 @@ LaTeX Info: Redefining \nameref on input line 97.
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 127.
+(Font)              <10.95> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 127.
+(Font)              <8> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 127.
+(Font)              <6> on input line 128.
+ <filaments-for-issi-prop.pdf, id=41, 433.62pt x 361.35pt>
+File: filaments-for-issi-prop.pdf Graphic file (type pdf)
 
-<virgo_filament_placeholder.png, id=43, 740.7675pt x 319.1925pt>
-File: virgo_filament_placeholder.png Graphic file (type png)
+<use filaments-for-issi-prop.pdf>
+Package pdftex.def Info: filaments-for-issi-prop.pdf used on input line 163.
+(pdftex.def)             Requested size: 211.3883pt x 176.1588pt.
 
-<use virgo_filament_placeholder.png>
-Package pdftex.def Info: virgo_filament_placeholder.png used on input line 159.
+<seediscs_filament_with_alma.png, id=42, 604.2575pt x 530.98375pt>
+File: seediscs_filament_with_alma.png Graphic file (type png)
 
-(pdftex.def)             Requested size: 433.62pt x 176.66687pt.
- [2] [3 <./virgo_filament_placeholder.png>] [4]
+<use seediscs_filament_with_alma.png>
+Package pdftex.def Info: seediscs_filament_with_alma.png used on input line 167
+.
+(pdftex.def)             Requested size: 187.90271pt x 165.1137pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--170
+[]$[]$$[]$
+ []
+
+[2] [3 <./filaments-for-issi-prop.pdf> <./seediscs_filament_with_alma.png>]
+[4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 385.
+(Font)              <9> on input line 402.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 385.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 385.
+(Font)              <5> on input line 402.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 402.
 
  (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -360,26 +392,26 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 604.
  [7
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 604.
  (./prop.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 561.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 604.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 604.
 Package rerunfilecheck Info: File `prop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 561.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 604.
  ) 
 Here is how much of TeX's memory you used:
- 6236 strings out of 493315
- 89740 string characters out of 6137904
- 185499 words of memory out of 5000000
- 9586 multiletter control sequences out of 15000+600000
- 21174 words of font info for 45 fonts, out of 8000000 for 9000
+ 6360 strings out of 493315
+ 91624 string characters out of 6137904
+ 192148 words of memory out of 5000000
+ 9708 multiletter control sequences out of 15000+600000
+ 22252 words of font info for 46 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,8n,29p,1087b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,29p,1145b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -390,10 +422,10 @@ e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on prop.pdf (7 pages, 701987 bytes).
+Output written on prop.pdf (7 pages, 699920 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 12 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

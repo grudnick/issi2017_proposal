@@ -12,6 +12,7 @@
 %\usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{times}
+\usepackage{subfigure}
 %\usepackage[top=0.5in, bottom=1.5in, left=1.1in, right=0.8in]{geometry}
 %% \addtolength{\oddsidemargin}{-.875in}
 %% 	\addtolength{\evensidemargin}{-.875in}
@@ -21,10 +22,10 @@
 %% 	\addtolength{\textheight}{1.75in}
 
 \usepackage{simplemargins}
-\setleftmargin{1.05in}
-	\setrightmargin{1.05in}
+\setleftmargin{1.0in}
+	\setrightmargin{1.0in}
 	\settopmargin{1in}
-	\setbottommargin{1.2in}
+	\setbottommargin{1.0in}
 %	\setallmargins{dimen}
 %\setallmargins{1.2in}
 
@@ -42,7 +43,6 @@
 \setlength{\topmargin}{0pt}
 \setlength{\topsep}{0pt}
 \setlength{\partopsep}{0pt}
-
 
 %\addtolength{\parskip}{-4pt}
 
@@ -100,6 +100,7 @@
 
 %\renewcommand{\thepage}{D--\arabic{page}}
 
+%\everypar{\looseness=-1}
 
 
 %\hline
@@ -138,9 +139,9 @@ of infalling galaxies or whether they are the final resting place of
 dead galaxies whose gas was depleted before entering the cluster
 environment.
 
-At low and intermediate redshifts, the suppression of star formation is at large distances from cluster cores, within groups and filaments \citep{Lewis02,Gomez03,Laigle17,Rerat17}.  This is consistent with simulations that show strong boosting of ram pressure within filaments \citep{Bahe13}, through which the bulk of the mass flows into the cluster \citep{Ramachandra15}. In contrast, spiral galaxies
+At low and intermediate redshifts, the suppression of star formation starts at large distances from cluster cores, within groups and filaments \citep{Lewis02,Gomez03,Laigle17}.  This is consistent with simulations that show a boosting of ram pressure within filaments \citep{Bahe13}, through which the bulk of the mass flows into the cluster \citep{Ramachandra15}. In contrast, spiral galaxies
 in the Virgo cluster show evidence of cold gas stripping and truncated
-star forming disks
+gas disks
 \citep{Koopmann98,Koopmann04,Dale01,Crowl05,Chung07}.  This
 demonstrates that the cluster environment is actively altering the
 star-formation properties of at least some of the infalling galaxies.  
@@ -156,9 +157,28 @@ The region around the Virgo cluster is ideal because at $\sim 16$~Mpc,  it is ne
 We have also made breakthroughs in our understanding of the filaments feeding distant galaxy clusters at $z>0.4$.  These advances have come thanks to the availability of 1~deg$^{2}$ field of view imagers on 4-meter telescopes that have enabled distant filaments to be identified via accurate photometric redshifts and subsequently be confirmed with multi-object spectroscopy on 6--8-meter class telescopes \citep[Fig. 1;][]{Rerat17}.  It has taken years to amass this data but we now have the first ability to study highly pure samples of filament galaxies many virial radii away from clusters, in the regions where they may experience environmental affects for the first time.
 
 \begin{figure}
-\includegraphics[clip=true,trim=0mm 0mm -15mm 0mm,width=6in,angle=0]{virgo_filament_placeholder.png}
-\caption{This is a placeholder caption about the Virgo filaments and SEEDisCS filaments.}
+\vspace{-1cm}
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=0.9\linewidth]{filaments-for-issi-prop.pdf}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=.8\linewidth]{seediscs_filament_with_alma.png}
+\end{minipage}
+\vspace{-0.5cm}
+\caption{{\it Left panel - } the filaments around the Virgo cluster from \citet{Kim16} are shown in gray and galaxies we have already observed in CO are shown color-coded by their velocity and split into sources with (circles) and without (triangles) CO detections.  All of these sources have HI observations and will have H$\alpha$ images during the timeframe of our ISSI team.  These data will complement the wealth of data available in the Virgo core (gray rectangle).  We are currently following up galaxies with low $M_{mol}/M_{HI}$ with spatially resolved CO observations. {\it Right panel - } Filamentary structure around a well-studied cluster at z=0.52 .  The color-scale shows the density of sources as measured from photo-z imaging.  The black dots are spectroscopically confirmed members and the red dots show sources with ALMA CO observations.  \textit{By combining observations of multiple gas phases our ISSI team will gain a unique view of how filaments affect the gas in galaxies over 5 billion years of cosmic time.}}
+\label{fig:Fig1}
+\vspace{0.2cm}
+\hrule
+\vspace{-0.5cm}
 \end{figure}
+
+
+%\begin{figure}
+%\includegraphics[clip=true,trim=0mm 0mm -15mm 0mm,width=6in,angle=0]{virgo_filament_placeholder.png}
+%\caption{This is a placeholder caption about the Virgo filaments and SEEDisCS filaments.}
+%\end{figure}
 
 %\textbf{The importance of understanding the gas:} Through decades of
 %work it has become clear that local supply of cold (mostly molecular)
@@ -268,7 +288,7 @@ gas and stellar disks.  Our team will propose with JWST grism spectroscopy to ob
 
 \textit{Obscured star formation:} Infrared observations from
 \spitzer, WISE, and \herschel\ probe the emission by dust grains that have
-been heated by star formation and can be used to infer the total
+been heated by young stars and can be used to infer the total
 infrared luminosity \lir\ and SFR.  
 %At
 %$z<2$ it is clear that the total SFR in cluster galaxies has declined
@@ -287,8 +307,7 @@ result in a lower mean intensity and smaller  size of the dust emitting region.
 
 \textit{The fuel for star formation.} To truly understand the
 modulation of star formation by reduction in the $H_2$ fuel supply
-requires that we observe the cold gas, or at least CO, which is the best tracer
-possible.  
+requires that we observe the cold gas, or at least a good tracer like CO.  
 %Thanks to dramatic technological advances in
 %millimetric interferometry with JVLA, NOEMA, and ALMA and the sensitivity if the IRAM 30m telescope we are now able
 %to study CO over the full redshift range in which clusters are
@@ -297,13 +316,13 @@ possible.
 %clusters appear to have had some of their molecular gas stripped while
 %leaving their SFRs - fueled by the densest gas - unaffected for a time
 %\citep{Jablonka13}.  While suggestive, however, these results are not conclusive as the local samples have numerous shortcomings.
-As part of the new efforts initiated by our previous ISSI team we have embarked on an ambitious observational campaign to search for stripping in filaments by imaging Virgo filament galaxies in CO, both with the IRAM 30m dish and with the NOEMA interferometer.   We have also made excellent progress on increasing the number of CO detections in intermediate redshift clusters and their surrounding filaments using NOEMA \citep{Jablonka13} and ALMA observations (Jablonka in prep.) and our ISSI team will follow these detections up with spatially resolved observations in future ALMA cycles.  We will also apply for JWST observations to measure H$_2$ directly.  
+As part of the efforts initiated by our previous ISSI team we have embarked on an ambitious observational campaign to search for stripping by imaging Virgo filament galaxies in CO, both with the IRAM 30m dish and with the NOEMA interferometer.   We have also made excellent progress on increasing the number of CO detections in intermediate redshift clusters and their surrounding filaments using NOEMA \citep{Jablonka13} and ALMA observations (Jablonka in prep.) and our ISSI team will follow these detections up with spatially resolved observations in future ALMA cycles.  We will also apply for JWST observations to measure H$_2$~directly.  
 
 As the result of JVLA and ALMA programs, team members have now detected CO
-in 13 galaxies that reside in four well characterized $z\sim 1.6$ proto-cluster
-(Rudnick et al. submitted to ApJ; Noble et al. in prep).  Taken together with the intermediate
-redshift measurements described above, these programs comprise most of the CO
-detections in cluster and filament galaxies outside the nearby universe.  Part of
+in 13 galaxies that reside in four well studied $z\sim 1.6$ proto-clusters
+(Rudnick et al. submitted to ApJ; Noble et al. in prep).  Taken together with our intermediate
+redshift measurements, these programs comprise most of the CO
+detections in dense environments outside the nearby universe.  Part of
 our ISSI program will be to combine these studies to measure how
 molecular gas and star formation relate in dense environments since
 $z<2$.  
@@ -370,9 +389,7 @@ R. Finn (USA), Y. Jaffe (Chile) $\bullet$~\textit{Dust-obscured star formation:}
 (USA), V. Desai (USA), G. Rudnick (USA), C. Papovich
 $\bullet$~\textit{Galaxy environment:} D. Zaritsky (USA), G. Castignani (F), V. Desai (USA), P. Jablonka (CH), M. Cooper (USA), D. Norman (USA), Y. Jaffe (Chile) $\bullet$~\textit{Very distant clusters:} G. Rudnick (USA), B. Weiner
 (USA), A. Noble (USA), E. van Kampen (D), C. Papovich (USA), G. Castignani (F) $\bullet$~\textit{Theoretical modeling:} G. De
-Lucia (IT), M. Cooper (USA), F. Combes (F).  
-
-This group has six new members, who bring essential expertise to our collaboration.  This group is larger than 12 but we expect that some members will self-fund to come to the meetings.  Such a large group is necessary to ensure that we have the proper cross-section of expertise.
+Lucia (IT), M. Cooper (USA), F. Combes (F).  This group has six new members, who bring essential expertise to our collaboration.  This group is larger than 12 but we expect that some members will self-fund to come to the meetings.  The size of our team is necessary to ensure that we have the proper expertise.
 
 \textbf{The value of ISSI:}  
 Making significant progress on understanding environmental effects requires a concerted and
@@ -391,8 +408,7 @@ cold gas.
 
 \textbf{Outcomes:} Our collaboration will result in multiple high
 impact papers.  We will also write a
-paper that combines the different studies above into a summary and
-synthesis of all we know observationally about the gas in galaxies in
+paper that combines the different studies above into synthesis of all we know observationally about the gas in galaxies in
 dense environments.  Another paper will combine those observational
 constraints with our theoretical modeling to constrain the timescales
 and physical mechanisms for the quenching of star formation.
@@ -411,7 +427,34 @@ Scientist scheme for two young researchers.
 \textbf{Required Facilities.}  We require only meeting facilities and
 reasonably fast internet access.
 
-%\footnotesize{{Alberts}, S. {et~al.} 2014, \mnras, 437, 437; {Bigiel}, F. {et~al.} 2008, \aj, 136, 2846; {Chung}, A. {et~al.} 2007, \apjl, 659, L115; {Crowl}, H.~H. {et~al.} 2005, \aj, 130, 65; {Dale}, D.~A. {et~al.} 2001, \aj, 121, 1886; {De Lucia}, G. {et~al.} 2012, \mnras, 423, 1277; {Finn}, R.~A. {et~al.} 2010, \apj, 720, 87; {G{\' o}mez}, P.~L. {et~al.} 2003, \apj, 584, 210; {Jablonka}, P. {et~al.} 2013, \aap, 557, A103; {Kennicutt}, Jr., R.~C. 1998, \apj, 498, 541; {Koopmann}, R.~A. {et~al.} 1998, \apjl, 497, L75; ---. 2004, \apj, 613, 866; {Larson}, R.~B. {et~al.} 1980, ApJ, 237, 692; {Leroy}, A.~K. {et~al.} 2008, \aj, 136, 2782; {Lewis}, I. {et~al.} 2002, \mnras, 334, 673; {McGee}, S.~L. {et~al.} 2011, \mnras, 413, 996; {Papovich}, C. {et~al.} 2012, \apj, 750, 93; {Poggianti}, B.~M. {et~al.} 1999, ApJ, 518, 576; {Postman}, M. {et~al.} 2005, \apj, 623, 721; {Quilis}, V. {et~al.} 2000, Science, 288, 1617; {Saintonge}, A. {et~al.} 2008, \apjl, 685, L113; {Tran}, K.-V.~H. {et~al.} 2010, \apjl, 719, L126; {Weinmann}, S.~M. {et~al.} 2010, \mnras, 406, 2249}
+\footnotesize{{Bah\'e}, Y.~M. {et~al.} 2013, \mnras, 430, 3017; 
+{Bigiel}, F. {et~al.} 2008, \aj, 136, 2846; 
+{Chung}, A. {et~al.} 2007, \apjl, 659, L115; 
+{Crowl}, H.~H. {et~al.} 2005, \aj, 130, 65; 
+{Dale}, D.~A. {et~al.} 2001, \aj, 121, 1886; 
+{De Lucia}, G. {et~al.} 2012, \mnras, 423, 1277; 
+%{Finn}, R.~A. {et~al.} 2010, \apj, 720, 87; 
+{G{\' o}mez}, P.~L. {et~al.} 2003, \apj, 584, 210; 
+{Jablonka}, P. {et~al.} 2013, \aap, 557, A103; 
+{Kim}, S., et~al. 2016, \apj, 833, 207;
+{Kennicutt}, Jr., R.~C. 1998, \apj, 498, 541; 
+{Koopmann}, R.~A. {et~al.} 1998, \apjl, 497, L75; 
+---. 2004, \apj, 613, 866; 
+Laigle, C. et al. 2017, submitted to \mnras, arXiv:1702.08810
+{Larson}, R.~B. {et~al.} 1980, ApJ, 237, 692; 
+{Leroy}, A.~K. {et~al.} 2008, \aj, 136, 2782; 
+{Lewis}, I. {et~al.} 2002, \mnras, 334, 673; 
+{McGee}, S.~L. {et~al.} 2011, \mnras, 413, 996; 
+%{Papovich}, C. {et~al.} 2012, \apj, 750, 93; 
+{Poggianti}, B.~M. {et~al.} 1999, ApJ, 518, 576; 
+{Postman}, M. {et~al.} 2005, \apj, 623, 721; 
+{Quilis}, V. {et~al.} 2000, Science, 288, 1617; 
+{Ramachandra}, N. \& {Shandarin}, S., 2015, \mnras, 452, 1643;
+%{Saintonge}, A. {et~al.} 2008, \apjl, 685, L113; 
+%{Tran}, K.-V.~H. {et~al.} 2010, \apjl, 719, L126; 
+{Rerat}, F., Jablonka, P., Rudnick, G., in prep;
+{Weinmann}, S.~M. {et~al.} 2010, \mnras, 406, 2249}
+
 
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% \begin{multicols}{2}

@@ -63,10 +63,6 @@ I was expecting a `,' or a `}'---line 12958 of file references.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Database file #2: rfinn.bib
-Repeated entry---line 63 of file rfinn.bib
- : @article{papovich12
- :                    ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 2943 of file rfinn.bib
  : @article{quilis00
  :                  ,
@@ -107,58 +103,50 @@ Repeated entry---line 3631 of file rfinn.bib
  : @article{poggianti99
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4059 of file rfinn.bib
- : @article{saintonge08
- :                     ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 4609 of file rfinn.bib
  : @article{koopmann04
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4881 of file rfinn.bib
- : @article{finn10
- :                ,
-I'm skipping whatever remains of this entry
 Warning--empty journal in Rerat17
-You've used 29 entries,
+You've used 23 entries,
             2964 wiz_defined-function locations,
-            840 strings with 12747 characters,
-and the built_in function-call counts, 17422 in all, are:
-= -- 1435
-> -- 1488
+            807 strings with 10559 characters,
+and the built_in function-call counts, 13306 in all, are:
+= -- 1107
+> -- 1084
 < -- 4
-+ -- 578
-- -- 549
-* -- 1716
-:= -- 3295
-add.period$ -- 29
-call.type$ -- 29
-change.case$ -- 390
-chr.to.int$ -- 29
-cite$ -- 30
-duplicate$ -- 517
-empty$ -- 773
-format.name$ -- 640
-if$ -- 3230
++ -- 420
+- -- 397
+* -- 1292
+:= -- 2507
+add.period$ -- 23
+call.type$ -- 23
+change.case$ -- 290
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 411
+empty$ -- 621
+format.name$ -- 470
+if$ -- 2488
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 29
-newline$ -- 91
-num.names$ -- 116
-pop$ -- 390
+missing$ -- 23
+newline$ -- 73
+num.names$ -- 92
+pop$ -- 288
 preamble$ -- 1
-purify$ -- 390
+purify$ -- 290
 quote$ -- 0
-skip$ -- 441
+skip$ -- 357
 stack$ -- 0
-substring$ -- 596
+substring$ -- 490
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 261
+type$ -- 207
 warning$ -- 1
-while$ -- 84
+while$ -- 68
 width$ -- 0
-write$ -- 288
-(There were 28 error messages)
+write$ -- 230
+(There were 25 error messages)

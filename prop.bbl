@@ -1,11 +1,5 @@
-\begin{thebibliography}{29}
+\begin{thebibliography}{23}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Alberts} {et~al.}(2014){Alberts}, {Pope}, {Brodwin}, {Atlee}, {Lin},
-  {Dey}, {Eisenhardt}, {Gettings}, {Gonzalez}, {Jannuzi}, {Mancone},
-  {Moustakas}, {Snyder}, {Stanford}, {Stern}, {Weiner}, \&
-  {Zeimann}}]{Alberts14}
-{Alberts}, S. {et~al.} 2014, \mnras, 437, 437
 
 \bibitem[{{Bah{\'e}} {et~al.}(2013){Bah{\'e}}, {McCarthy}, {Balogh}, \&
   {Font}}]{Bahe13}
@@ -31,11 +25,6 @@
   {Arag{\'o}n-Salamanca}, \& {Zaritsky}}]{DeLucia12a}
 {De Lucia}, G. {et~al.} 2012, \mnras, 423, 1277
 
-\bibitem[{{Finn} {et~al.}(2010){Finn}, {Desai}, {Rudnick}, {Poggianti}, {Bell},
-  {Hinz}, {Jablonka}, {Milvang-Jensen}, {Moustakas}, {Rines}, \&
-  {Zaritsky}}]{Finn10}
-{Finn}, R.~A. {et~al.} 2010, \apj, 720, 87
-
 \bibitem[{{G{\' o}mez} {et~al.}(2003){G{\' o}mez}, {Nichol}, {Miller},
   {Balogh}, {Goto}, {Zabludoff}, {Romer}, {Bernardi}, {Sheth}, {Hopkins},
   {Castander}, {Connolly}, {Schneider}, {Brinkmann}, {Lamb}, {SubbaRao}, \&
@@ -51,7 +40,7 @@
 
 \bibitem[{{Kim} {et~al.}(2016){Kim}, {Rey}, {Bureau}, {Yoon}, {Chung},
   {Jerjen}, {Lisker}, {Jeong}, {Sung}, {Lee}, {Lee}, \& {Chung}}]{Kim16}
-{Kim}, S. {et~al.} 2016, ArXiv e-prints
+{Kim}, S. {et~al.} 2016, \apj, 833, 207
 
 \bibitem[{{Koopmann} \& {Kenney}(1998)}]{Koopmann98}
 {Koopmann}, R.~A. {et~al.} 1998, \apjl, 497, L75
@@ -83,13 +72,6 @@
   {Mulchaey}, {Parker}, \& {Oemler}}]{McGee11}
 {McGee}, S.~L. {et~al.} 2011, \mnras, 413, 996
 
-\bibitem[{{Papovich} {et~al.}(2012){Papovich}, {Bassett}, {Lotz}, {van der
-  Wel}, {Tran}, {Finkelstein}, {Bell}, {Conselice}, {Dekel}, {Dunlop}, {Guo},
-  {Faber}, {Farrah}, {Ferguson}, {Finkelstein}, {H{\"a}ussler}, {Kocevski},
-  {Koekemoer}, {Koo}, {McGrath}, {McLure}, {McIntosh}, {Momcheva}, {Newman},
-  {Rudnick}, {Weiner}, {Willmer}, \& {Wuyts}}]{Papovich12}
-{Papovich}, C. {et~al.} 2012, \apj, 750, 93
-
 \bibitem[{{Poggianti} {et~al.}(1999){Poggianti}, {Smail}, {Dressler}, {Couch},
   {Barger}, {Butcher}, {Ellis}, \& {Oemler}}]{Poggianti99}
 {Poggianti}, B.~M. {et~al.} 1999, ApJ, 518, 576
@@ -113,21 +95,8 @@
   D.}]{Rerat17}
 {Rerat}, F. {et~al.} in prep
 
-\bibitem[{{Saintonge} {et~al.}(2008){Saintonge}, {Tran}, \&
-  {Holden}}]{Saintonge08}
-{Saintonge}, A. {et~al.} 2008, \apjl, 685, L113
-
-\bibitem[{{Tran} {et~al.}(2010){Tran}, {Papovich}, {Saintonge}, {Brodwin},
-  {Dunlop}, {Farrah}, {Finkelstein}, {Finkelstein}, {Lotz}, {McLure},
-  {Momcheva}, \& {Willmer}}]{Tran10}
-{Tran}, K.-V.~H. {et~al.} 2010, \apjl, 719, L126
-
 \bibitem[{{Weinmann} {et~al.}(2010){Weinmann}, {Kauffmann}, {von der Linden},
   \& {De Lucia}}]{Weinmann10}
 {Weinmann}, S.~M. {et~al.} 2010, \mnras, 406, 2249
-
-\bibitem[{{Xie} {et~al.}(2016){Xie}, {De Lucia}, {Hirschmann}, {Fontanot}, \&
-  {Zoldan}}]{Xie16}
-{Xie}, L. {et~al.} 2016, ArXiv e-prints
 
 \end{thebibliography}
